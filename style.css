@@ -1,0 +1,32 @@
+.heading { font-size: 23px; width: 100%;
+     margin: 0px; } 
+
+     .nota { font-size: 15px; 
+        color: rgb(0, 0, 0); }
+        
+        body{
+         background-size:cover;
+        }
+
+        .Zeus{
+         float: left;
+        }
+
+        .Zeusimg{
+         width: 100px;
+         border-radius: 100px;
+        }
+
+        .A_la_velocida_del_sonido{
+         width: 100px;
+         border-radius: 100px;
+        }
+
+        .El_Alcon_milenario{
+         float: right;
+        }
+
+        canvas{
+         border: 3px solid blueviolet;
+         border-radius: 20px;
+        }
